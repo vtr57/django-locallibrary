@@ -4,7 +4,7 @@ Este projeto é de inspiração ao tutorial da [Mozila](https://developer.mozill
 ## Teste
 ### Abra o terminal onde você irá clonar o repositório. Crie um ambiente virtual:
 ```
-python venv -m .venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 Após clonar o repositório para o seu local, mude para a pasta com o comando
